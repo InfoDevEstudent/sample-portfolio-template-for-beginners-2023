@@ -44,7 +44,7 @@
     text-decoration: underline;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 48rem) {
     .projects ul li,
     .projects ul li .projects__reversed-list {
         flex-direction: column;
