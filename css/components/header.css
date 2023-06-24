@@ -22,7 +22,7 @@ header .header__right .header__image{
     line-height: 0;
 }
 
-header.header__right.header__image::after {
+/* header.header__right.header__image::after {
     content: "";
     display: block;
     width: 100%;
@@ -32,15 +32,15 @@ header.header__right.header__image::after {
     top: -1.5rem;
     right: -1.5rem;
     z-index: -1;
-}
+} */
 
-header.header__right.header__image .peu {
+header .header__right .header__image .peu {
     border-radius: 0.5rem;
     min-width: 25rem;
     max-width: 100%;
 }
 
-header.header__right.header__image .background {
+header .header__right .header__image .background {
     position: absolute;
     top: -4rem;
     right: -2.5rem;

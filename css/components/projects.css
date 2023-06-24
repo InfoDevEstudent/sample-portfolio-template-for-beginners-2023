@@ -16,7 +16,7 @@
     gap: 4rem;
 }
 
-.projects ul li.projects__reversed-list {
+.projects ul li .projects__reversed-list {
     flex-direction: row-reverse;
 }
 
@@ -46,7 +46,7 @@
 
 @media only screen and (max-width: 768px) {
     .projects ul li,
-    .projects ul li.projects__reversed-list {
+    .projects ul li .projects__reversed-list {
         flex-direction: column;
     }
 
