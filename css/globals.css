@@ -100,7 +100,7 @@
     margin-bottom: 6rem;
   }
   
-  @media only screen and (max-width: 1024px) {
+  @media only screen and (max-width: 64rem) {
     html {
       font-size: 60%;
     }
@@ -110,7 +110,7 @@
     }
   }
   
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 48rem) {
     html {
       font-size: 58%;
     }
@@ -120,7 +120,7 @@
     }
   }
   
-  @media only screen and (max-width: 425px) {
+  @media only screen and (max-width: 26.5rem) {
     h1 {
       font-size: 4.2rem;
     }
