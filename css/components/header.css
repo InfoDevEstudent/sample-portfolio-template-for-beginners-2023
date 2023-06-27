@@ -10,6 +10,13 @@ header .header__left {
     max-width: 62rem;
     flex: 1;
 }
+header .header__left h1 {
+    display: inline;
+}
+header .header__left img {
+    width: 70px;
+    padding-left: 10px;
+}
 
 header .header__left p {
     margin-top: 2rem;
